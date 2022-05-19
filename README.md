@@ -20,3 +20,5 @@ This section divides the instructions for this Challenge into four steps and an 
 * Step 3: Relate the search traffic to stock price patterns
 
 * Step 4: Create a time series model with Prophet
+
+* Step 5 (optional): Forecast revenue by using time series models *Not completed*
